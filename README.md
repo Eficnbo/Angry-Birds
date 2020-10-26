@@ -7,7 +7,7 @@ Main features:
 -different users
 -highscores
 -different birds and blocks
--
+
 
 
 Install qt5 open source and run/build from your local machine
