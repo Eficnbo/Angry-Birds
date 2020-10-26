@@ -3,10 +3,12 @@ Angry Birds copy made with c++
 Used box2d 2d physics engine and Qt for graphics. CMake for building.
 
 Main features: 
-	<> level editor
-	<> different users
-	<> highscores
-	<> different birds and blocks
+
+    <> level editor 
+    <> different users
+    <> highscores
+    <> different birds and blocks
+    <> edited levels visible to everyone
 
 
 Install qt5 open source and run/build from your local machine
