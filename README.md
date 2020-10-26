@@ -1,3 +1,9 @@
+Angry Birds copy made with c++
+
+Used box2d 2d physics engine and Qt for graphics. CMake for building.
+
+
+
 Running our project remotely:
 
     You can do the X11 forwarding in any way but we have been using XQuartz on mac.
